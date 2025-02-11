@@ -22,7 +22,7 @@ This repository contains the complete manual testing documentation and reports f
     - [Test_Plan_Mindmap.png](https://drive.google.com/file/d/1rInelQswbSp7cLXJJYbQyvYvb2CezbuI/view?usp=drive_link)
   
 * 📂 **Test-Scenarios-Cases**
-   - [Test_Scenarios&Test cases.xlsx](https://drive.google.com/file/d/1rInelQswbSp7cLXJJYbQyvYvb2CezbuI/view?usp=drive_link)
+   - [Test_Scenarios&Test cases.xlsx](https://docs.google.com/spreadsheets/d/1ghI5UbUdKtp8by8knBttRJMY2B7vzGK31DoQlQBA604/edit?usp=drive_link)
 
 
 * 📂 **Bug-Reports**
